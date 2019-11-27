@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395622235893",
+    "firebase_url": "https://test-fcm-firebase.firebaseio.com",
+    "project_id": "test-fcm-firebase",
+    "storage_bucket": "test-fcm-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395622235893:android:f187c5974fa6d33a2bcfbc",
+        "android_client_info": {
+          "package_name": "edu.uit.testfcmfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395622235893-1p9lmb9o2odk56u8nr6rhs215llhnpcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uit.testfcmfirebase",
+            "certificate_hash": "ae9fcf16ffb1a3ed491541b696b6d84f67bfc783"
+          }
+        },
+        {
+          "client_id": "395622235893-eonplrd6gp474llpdb3m32op3oud2vh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC_j4MvIy5SXKQCcYKC4tfZlhxC2BnuDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395622235893-eonplrd6gp474llpdb3m32op3oud2vh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
